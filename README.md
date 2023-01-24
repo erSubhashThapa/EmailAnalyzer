@@ -26,7 +26,7 @@ Created by Subhash Thapa
 ## Requirements:
 #### Python 2.7+
 ## Usage:
-### python EmailAnalyzer.py <filename>
+### python EmailAnalyzer.py <filename> or python3 EmailAnalyzer.py <filename>
 ### Eg: python EmailAnalyzer.py C:\Users\Subhash\Documents\Email\emails\e1.eml
 
 ## Snapshots 
