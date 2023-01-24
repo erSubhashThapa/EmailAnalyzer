@@ -19,6 +19,8 @@ Created by Subhash Thapa
 - Email Subject with Sender and Recipient details
 - OSINT Links For Detected IOCs
 
+<b>Note: This script only works on .eml extensions files. Please let me know for any suggestions or improvement.</b>
+
 ## Requirements:
 #### Python 2.7+
 ## Usage:
