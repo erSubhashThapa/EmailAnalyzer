@@ -3,7 +3,7 @@
 	<img src='https://img.shields.io/badge/Made%20with-Python-1f425f.svg'/>
   
 # EmailAnalyzer
-Created by Subhash Thapa
+Created by <a href="https://www.linkedin.com/in/subhash-thapa-8670b1115/ ">Subhash Thapa</a>
 </p>
 </div>
 
